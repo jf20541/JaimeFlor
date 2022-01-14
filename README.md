@@ -35,6 +35,10 @@
       <td>Deployed BERT Base (94.15%) and Dockerized front-end web application using FastAPI.</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/jf20541/Pruning-DeepNeuralNetwork"><b>jf20541/Pruning-DeepNeuralNetwork</b></a></td>
+      <td> Eliminated parameters with two pruning methods (weight and units) sparsity (k%) with minimal loss in performance.</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/jf20541/DNNHyperparameterTuning"><b>jf20541/DeepLearning Tuning</b></a></td>
       <td>Optimize DNN hyperparameters using TPE-Bayesian optimization based on kernel fitting with 0.9625 ROC-AUC.</td>
     </tr>
@@ -50,5 +54,5 @@
 </table>
 
 <h3>Connect with me</h3>
-<p><a href="https://www.linkedin.com/in/jaimeflorfigue/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/jf20541" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<p><a href="https://www.linkedin.com/in/jaimeflorfigue/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
