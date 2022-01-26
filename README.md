@@ -18,7 +18,8 @@
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img alt="Markdown" src="https://img.shields.io/badge/Ethereum-0089D6?style=for-the-badge&logo=Ethereum&logoColor=darkblue" />
+  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-0089D6?style=for-the-badge&logo=Ethereum&logoColor=darkblue" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 <h3>Projects</h3>
 <table>
