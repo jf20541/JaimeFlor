@@ -61,7 +61,8 @@
     </tr>
     <tr>
       <td><a href="https://github.com/jf20541/PCARiskModel-SectorETF"><b>PCA Risk Factor Model on SPDR ETF</b></a></td>
-      <td></td>
+      <td> Inititated PCA as a Risk-Factor Model, identified factor exposure, factor returns, idiosyncratic risk, and idiosyncratic residuals that explains a maximum amount of 
+  </td>
     </tr>
     <tr>
       <td><a href="https://github.com/jf20541/KMeansDbscanPCA"><b>K-Means vs DBSCAN on population segmentation </b></a></td>
