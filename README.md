@@ -26,29 +26,66 @@
   <thead align="center">
     <tr border: none;>
       <td><b>⚙️ Projects</b></td>
-      <td><b>ℹ️ About</b></td>
+      <td><b>About</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/jf20541/BERT-NLP-Deployment-FastAPI-Docker"><b>jf20541/BERT-Deployment</b></a></td>
+      <td><a href="https://github.com/jf20541/BERT-NLP-Deployment-FastAPI-Docker"><b>NLP Deployed BERT Base using FastAPI</b></a></td>
       <td>Deployed BERT Base (94.15%) and Dockerized front-end web application using FastAPI.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jf20541/Pruning-DeepNeuralNetwork"><b>jf20541/Pruning-DeepNeuralNetwork</b></a></td>
+      <td><a href="https://github.com/jf20541/Pruning-DeepNeuralNetwork"><b>Pruning Deep Learning (Weights vs Units)</b></a></td>
       <td> Eliminated parameters with two pruning methods (weight and units) sparsity (k%) with minimal loss in performance.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jf20541/DNNHyperparameterTuning"><b>jf20541/DeepLearning Tuning</b></a></td>
+      <td><a href="https://github.com/jf20541/DNNHyperparameterTuning"><b>Deep Learning Hyper-Parameter Tuning</b></a></td>
       <td>Optimize DNN hyperparameters using TPE-Bayesian optimization based on kernel fitting with 0.9625 ROC-AUC.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jf20541/Optimal-RegressionModel-HyperParameters-Flask-Azure-Docker"><b>jf20541/Oprtimal Regression Tuning Deployment</b></a></td>
+      <td><a href="https://github.com/jf20541/Optimal-RegressionModel-HyperParameters-Flask-Azure-Docker"><b>Deployed Oprtimal Regression Tuning with Flask</b></a></td>
       <td>Seek the optimal regression model while optimizing model's hyperparameters using Tree-Structured Parzen Estimator Approach (TPE) that applies the Bayes Rule and evaluating performance with RMSE.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jf20541/BGRU-BLSTM-GloVe-fastText-NLP"><b>jf20541/BGRU-BLSTM-GloVe-fastText-NLP</b></a></td>
+      <td><a href="https://github.com/jf20541/BGRU-BLSTM-GloVe-fastText-NLP"><b>NLP BiDirectional GRU vs LSTM with GloVe vs fastText</b></a></td>
       <td>Compared Bi-GRU vs Bi-LSTM and GloVe vs fastText pre-trained word embeddings performance.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jf20541/PortfolioVarianceBW"><b>Bridgewater Associated Portfolio Variance</b></a></td>
+      <td>Bridgewater Associate's 2021Q1 top 25 holdings. Calculated factors covariance, factor exposures, idiosyncratic variances, rebalanced weights for Portfolio Variance.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jf20541/MonteCarloPortfolioOptimization"><b>Monte-Carlo Portfolio Optimization</b></a></td>
+      <td>Optimal Portfolio on all SPDR Sector ETF with Returns 44.52%, Risk: 0.20, Sharpe Ration 2.84</td>
+    </tr>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jf20541/PCARiskModel-SectorETF"><b>PCA Risk Factor Model on SPDR ETF</b></a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jf20541/KMeansDbscanPCA"><b>K-Means vs DBSCAN on population segmentation </b></a></td>
+      <td>Compared and contrast two unsupervised Learning clustering models (KMeans & DBSCAN), initiated PCA for reduction dimensionality.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jf20541/XGBoost-OptimalHyperParameters-AWS-SageMaker"><b>XGBoost Hyper-parameter Tuning with AWS SageMaker</b></a></td>
+      <td>XGBoost Binary-Classifier on imbalanced dataset with a 0.9085 precision by optimizing hyperparameters with Bayesian Optimization.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jf20541/DeepNeuralNetworks"><b>Vanilla Neural Network for Binary Classification</b></a></td>
+      <td>Developed Neural Network for binary classification with an outputted 0.8733 ROC-AUC, initialized scheduler to reduce learning rate.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jf20541/EDA-FeatureEngineering-FeatureSelection"><b>EDA-Feature Engineering-Feature Selection</b></a></td>
+      <td>Data collection on 3 datasets for Exploratory Data Analysis, Feature Engineering, and Feature Importance. Set visualization, test hypothesis, check assumptions, etc</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jf20541/RecurrentNeuralNetworks"><b>RNN vs LSTM vs GRU on Time-Series data</b></a></td>
+      <td>Random Walk Hypothesis states it's IMPOSSIBLE to predict future returns. Forecasted SPY ETF time-series on variates of RNN-LSTM-GRU</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jf20541/RandomForest-Optimal-HyperParameter"><b>Random Forest Classifier Hyper-parameter Tuning</b></a></td>
+      <td>Classified binary target values on return. Calculated features (RSI, MA, MACD, etc). Hyperparameter tuning with Bayesian Optimization, GridSearchCV, and RandomSearchCV.</td>
     </tr>
   </tbody>
 </table>
