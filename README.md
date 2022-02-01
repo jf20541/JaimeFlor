@@ -31,7 +31,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/jf20541/BERT-NLP-Deployment-FastAPI-Docker"><b>NLP Deployed BERT Base using FastAPI</b></a></td>
+      <td><a href="https://github.com/jf20541/BERT-NLP-Deployment-FastAPI-Docker"><b>NLP Deployed BERT Base with FastAPI</b></a></td>
       <td>Deployed BERT Base (94.15%) and Dockerized front-end web application using FastAPI.</td>
     </tr>
     <tr>
@@ -55,38 +55,21 @@
       <td>Bridgewater Associate's 2021Q1 top 25 holdings. Calculated factors covariance, factor exposures, idiosyncratic variances, rebalanced weights for Portfolio Variance.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jf20541/MonteCarloPortfolioOptimization"><b>Monte-Carlo Portfolio Optimization</b></a></td>
-      <td>Optimal Portfolio on all SPDR Sector ETF with Returns 44.52%, Risk: 0.20, Sharpe Ration 2.84</td>
-    </tr>
-    </tr>
-    <tr>
       <td><a href="https://github.com/jf20541/PCARiskModel-SectorETF"><b>PCA Risk Factor Model on SPDR ETF</b></a></td>
       <td> Inititated PCA as a Risk-Factor Model, identified factor exposure, factor returns, idiosyncratic risk, and idiosyncratic residuals that explains a maximum amount of 
   </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jf20541/KMeansDbscanPCA"><b>K-Means vs DBSCAN on population segmentation </b></a></td>
+      <td><a href="https://github.com/jf20541/KMeansDbscanPCA"><b>K-Means vs DBSCAN</b></a></td>
       <td>Compared and contrast two unsupervised Learning clustering models (KMeans & DBSCAN), initiated PCA for reduction dimensionality.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jf20541/XGBoost-OptimalHyperParameters-AWS-SageMaker"><b>XGBoost Hyper-parameter Tuning with AWS SageMaker</b></a></td>
-      <td>XGBoost Binary-Classifier on imbalanced dataset with a 0.9085 precision by optimizing hyperparameters with Bayesian Optimization.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/jf20541/DeepNeuralNetworks"><b>Vanilla Neural Network for Binary Classification</b></a></td>
+      <td><a href="https://github.com/jf20541/DeepNeuralNetworks"><b>Vanilla Neural Network</b></a></td>
       <td>Developed Neural Network for binary classification with an outputted 0.8733 ROC-AUC, initialized scheduler to reduce learning rate.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/jf20541/EDA-FeatureEngineering-FeatureSelection"><b>EDA-Feature Engineering-Feature Selection</b></a></td>
       <td>Data collection on 3 datasets for Exploratory Data Analysis, Feature Engineering, and Feature Importance. Set visualization, test hypothesis, check assumptions, etc</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/jf20541/RecurrentNeuralNetworks"><b>RNN vs LSTM vs GRU on Time-Series data</b></a></td>
-      <td>Random Walk Hypothesis states it's IMPOSSIBLE to predict future returns. Forecasted SPY ETF time-series on variates of RNN-LSTM-GRU</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/jf20541/RandomForest-Optimal-HyperParameter"><b>Random Forest Classifier Hyper-parameter Tuning</b></a></td>
-      <td>Classified binary target values on return. Calculated features (RSI, MA, MACD, etc). Hyperparameter tuning with Bayesian Optimization, GridSearchCV, and RandomSearchCV.</td>
     </tr>
   </tbody>
 </table>
