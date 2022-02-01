@@ -31,7 +31,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/jf20541/BERT-NLP-Deployment-FastAPI-Docker"><b>NLP Deployed BERT Base with FastAPI</b></a></td>
+      <td><a href="https://github.com/jf20541/BERT-NLP-Deployment-FastAPI-Docker"><b>BERT Base NLP deployment using FastAPI</b></a></td>
       <td>Deployed BERT Base (94.15%) and Dockerized front-end web application using FastAPI.</td>
     </tr>
     <tr>
