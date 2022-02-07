@@ -1,6 +1,6 @@
 <h1>Hi there! I'm Jaime Flor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
-<p>I'm a <a href="https://www.linkedin.com/in/jaimeflorfigue/" target="_blank">Data Scientist</a>. I clean, explore, feature engineer, develope, optimize and deploy deep and machine learning models for applications. </p>
+<p>I'm a <a href="https://www.linkedin.com/in/jaimeflorfigue/" target="_blank">Data Scientist</a>. I clean, explore, feature engineer, develop, optimize and deploy deep and machine learning models for applications. </p>
 
 
 <h1></h1>
